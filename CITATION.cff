@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Road Connectivity in Northern Canada"
+message: "If you use this replication package, please cite the project."
+type: software
+authors:
+  - family-names: "Rodriguez"
+    given-names: "Fabrizzio"
+repository-code: "https://github.com/F4b-R0D/xxx"
